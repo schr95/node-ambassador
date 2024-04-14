@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../FRONT-ARQ/react-ambassador"
+		},
+		{
+			"path": "../../../email-microservicio"
+		}
+	],
+	"settings": {}
+}
